@@ -1,0 +1,32 @@
+# ai-news-scraper-frontend files to ignore
+ai-news-scraper-frontend/node_modules/
+ai-news-scraper-frontend/.env
+ai-news-scraper-frontend/.env.local
+ai-news-scraper-frontend/.env.development
+ai-news-scraper-frontend/.env.test
+ai-news-scraper-frontend/.env.production
+ai-news-scraper-frontend/build/
+ai-news-scraper-frontend/.DS_Store
+ai-news-scraper-frontend/coverage/
+ai-news-scraper-frontend/.cache/
+ai-news-scraper-frontend/dist/
+
+# ai-news-scraper-backend files to ignore
+ai-news-scraper-backend/venv/
+ai-news-scraper-backend/.env
+ai-news-scraper-backend/__pycache__/
+ai-news-scraper-backend/*.pyc
+ai-news-scraper-backend/*.pyo
+ai-news-scraper-backend/*.pyd
+ai-news-scraper-backend/*.sqlite
+ai-news-scraper-backend/.pytest_cache/
+ai-news-scraper-backend/instance/
+
+# System files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+*.tmp
+*.bak

@@ -3,7 +3,7 @@
 A full-stack application that scrapes AI-related articles from multiple sources and provides search functionality.
 
 ![Project Screenshot](screenshot/Screenshot-1.png)
-![Project Screenshot](screenshot/screenshot-2.png)
+![Project Screenshot](screenshot/Screenshot-2.png)
 
 ## Features
 
